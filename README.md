@@ -21,7 +21,7 @@
   <a href="#memo-license">License</a>
 </p>
 
-![App Screenshot](https://res.cloudinary.com/dwudlwkie/image/upload/v1580427732/print_urj27e.png)
+![App Screenshot](https://res.cloudinary.com/dwudlwkie/image/upload/v1581464368/Unnntitled_blsf5x.png)
 <p align="center">
   <h5 align="center">
     Available on GiHub Pages
