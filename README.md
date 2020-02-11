@@ -2,17 +2,17 @@
   A PokeDex with React, using Hooks.
 </h4>
 <p align="center">
-  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/Moonkzin/bootstrapExample.svg">
+  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/lucmkz/bootstrapExample.svg">
 
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/Moonkzin/bootstrapExample.svg">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/lucmkz/bootstrapExample.svg">
 
-  <img alt="Repository size" src="https://img.shields.io/github/languages/code-size/Moonkzin/bootstrapExample.svg">
+  <img alt="Repository size" src="https://img.shields.io/github/languages/code-size/lucmkz/bootstrapExample.svg">
   
-  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Moonkzin/bootstrapExample.svg">
+  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/lucmkz/bootstrapExample.svg">
 
-  <img alt="Repository issues" src="https://img.shields.io/github/issues/Moonkzin/bootstrapExample.svg">
+  <img alt="Repository issues" src="https://img.shields.io/github/issues/lucmkz/bootstrapExample.svg">
 
-  <img alt="GitHub" src="https://img.shields.io/github/license/Moonkzin/bootstrapExample.svg">
+  <img alt="GitHub" src="https://img.shields.io/github/license/lucmkz/bootstrapExample.svg">
 </p>
 
 <p align="center">
