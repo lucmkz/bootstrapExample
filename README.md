@@ -29,7 +29,7 @@
 </p>
 
 <p align="center">
-  <a align="center" href="https://lucmkz.github.io/pokedex-react/" target="_blank">
+  <a align="center" href="https://lucmkz.github.io/bootstrapExample/" target="_blank">
     <img alt="Github Pages" src="https://res.cloudinary.com/dwudlwkie/image/upload/v1580429605/sdsd_qltl17.png">
   </a>
 </p>
@@ -39,12 +39,10 @@
 
 This project was developed just for study with the technologies:
 
--  [ReactJS](https://reactjs.org/)
--  [React Router v4](https://github.com/ReactTraining/react-router)
--  [Axios](https://github.com/axios/axios)
--  [styled-components](https://www.styled-components.com/)
--  [React-Icons](https://react-icons.netlify.com/)
--  [VS Code][vc] with [EditorConfig][vceditconfig] and [ESLint][vceslint]
+-  [HTML5](https://developer.mozilla.org/pt-BR/docs/Web/HTML/HTML5)
+-  [CSS3](https://developer.mozilla.org/pt-BR/docs/Archive/CSS3)
+-  [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+-  [Bootstrap 3 ](https://getbootstrap.com/docs/3.3/)
 
 ## :information_source: How To Use
 
@@ -52,16 +50,13 @@ To clone and run this application, you'll need [Git](https://git-scm.com), [Node
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/Moonkzin/pokedex-react
+$ git clone https://github.com/lucmkz/bootstrapExample
 
 # Go into the repository
-$ cd pokedex-react
+$ cd bootstrapExample
 
-# Install dependencies
-$ yarn install
-
-# Run the app
-$ yarn start
+# Execute a localhost, for example with python 
+$ python -m http.server 3000
 ```
 
 ## :memo: License
@@ -70,9 +65,3 @@ This project is under the MIT license. See the [LICENSE]() for more information.
 ---
 
 Made by Lucas Santos :wave: [Get in touch!](https://www.linkedin.com/in/lucasmk/)
-
-[nodejs]: https://nodejs.org/
-[yarn]: https://yarnpkg.com/
-[vc]: https://code.visualstudio.com/
-[vceditconfig]: https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig
-[vceslint]: https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint
