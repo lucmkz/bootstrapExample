@@ -1,3 +1,4 @@
+<h4 align="center">project developed under study at Fiap's MBA in the Modern Web class</h4>
 <h4 align="center">
   A PokeDex with React, using Hooks.
 </h4>
