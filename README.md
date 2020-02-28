@@ -1,7 +1,5 @@
 <h4 align="center">project developed under study at Fiap's MBA in the Modern Web class</h4>
-<h4 align="center">
-  A PokeDex with React, using Hooks.
-</h4>
+
 <p align="center">
   <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/lucmkz/bootstrapExample.svg">
 
